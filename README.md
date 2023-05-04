@@ -1,14 +1,12 @@
-## Ahmmad Al-Attal
+## Ahmmad Al-Attal 
 Sr. Software engineer
 
-Menu Experiance Squad
+Food Discovery Squad
 
 Shopping Tribe
 
-M: +971 50 144 4540
+[![Call me](/assets/phone-light-small.png)](tel:+971501444540)&nbsp; &nbsp;
+[![Email me](/assets/email-light.png)](mailto:ahmmad.alattal@talabat.com)&nbsp; &nbsp;
+[![Slack me](/assets/slack-light-small.png)](https://deliveryhero.slack.com/archives/D032KFXP6N4)
 
-E: ahmmad.alattal@talabat.com
-
-25 Floor, Single Business Tower, Business Bay, Dubai, UAE.
-
-![alt text](https://github.com/Ahmmad-AlAttal/Ahmmad-AlAttal/blob/main/signature-v1.gif)
+<img src="https://github.com/Ahmmad-AlAttal/Ahmmad-AlAttal/blob/main/signature-v1.gif" alt= “Talabat” width="120">
